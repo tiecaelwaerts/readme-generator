@@ -31,9 +31,10 @@ const questions = [
         message: 'Did anyone or anything help make this application?'
     },
     {
-        type: 'input',
+        type: 'list',
         name: 'license',
-        message: 'What license does your application use?'
+        message: 'What license does your application use?',
+        choices: ['MIT', 'Apache', 'GPL', 'None']
     },
     {
         type: 'input',

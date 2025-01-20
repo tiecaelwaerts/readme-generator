@@ -13,7 +13,7 @@ function renderLicenseLink(license) {
   if (!license) {
     return '';
   }
-  return '[Learn more about this license](https://choosealicense.com/licenses/${license})';
+  return `This application uses the ${license} license. For more information, visit [here](https://choosealicense.com/licenses/${license.toLowerCase()}).`;
 }
 
 // TODO: Create a function that returns the license section of README
@@ -31,8 +31,6 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   return `# ${data.title}
 
-  ${renderLicenseBadge(data.license)}
-
   ## Description
 ${data.description}
 
@@ -46,6 +44,7 @@ ${data.usage}
 ${data.collaborators}
 
 ${renderLicenseSection(data.license)}
+${renderLicenseBadge(data.license)}
 ${renderLicenseLink(data.license)}
 
 ## Features
