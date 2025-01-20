@@ -45,8 +45,8 @@ ${data.usage}
 ## Collaborators 
 ${data.collaborators}
 
-## License
 ${renderLicenseSection(data.license)}
+${renderLicenseLink(data.license)}
 
 ## Features
 ${data.features}
