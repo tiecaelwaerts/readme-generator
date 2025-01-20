@@ -1,36 +1,33 @@
-
+ # README Generator
   # Table of Contents
-  1. [Title](#title)
-  2. [Description](#description)
-  3. [Installation](#installation)
-  4. [Usage](#usage)
-  5. [Collaborators](#collaborators)
-  6. [License](#license)
-  7. [Features](#features)
-  8. [Contribution](#contribution)
-  9. [Contact](#contact)
+  1. [Description](#description)
+  2. [Installation](#installation)
+  3. [Usage](#usage)
+  4. [Collaborators](#collaborators)
+  5. [License](#license)
+  6. [Features](#features)
+  7. [Contribution](#contribution)
+  8. [Contact](#contact)
   
-  
-  # README Generator
 
   ## Description
-a way to make a quick consistent README
+a consistent and quick way to make a README
 
 ## Installation 
 npm install inquirer
 
 ## Usage
-use node and make a quick README
+use for making a README through node
 
 ## Collaborators 
-CoPilot, BCS Learning
+coPilot and BCS learning
 
 
 
 
 
 ## Features
-Quick and easy to use
+quick and easy to use
 
 ## Contribution
 n/a
