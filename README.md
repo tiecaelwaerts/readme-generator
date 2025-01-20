@@ -1,28 +1,27 @@
-# README Generator
+# Generate README
 
   ## Description
-A node project on how to generate quick and easy README files
+to generate a README file quickly
 
 ## Installation 
-npm i inquirer
+npm install
 
 ## Usage
-Use it to set up a readme file that has a solid set up quickly
+to quickily make your README with consistency
 
 ## Collaborators 
-CoPilot, learning bcs and some chatgpt
+CoPilot, BCS learning
 
-## License
-  
-  This application uses the None license.
-![License](https://img.shields.io/badge/license-None-blue.svg)
-This application uses the None license. For more information, visit [here](https://choosealicense.com/licenses/none).
+## License 
+    MIT
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+This application uses the MIT license. For more information, visit [here](https://choosealicense.com/licenses/mit).
 
 ## Features
 quick and easy to use
 
 ## Contribution
-none 
+none
 
 ## Contact
 GitHub: [tiecaelwaerts](https://github.com/tiecaelwaerts)
