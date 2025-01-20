@@ -11,16 +11,17 @@
   
 
   ## Description
-a consistent and quick way to make a README
+A Quick and Consistent way to make a README 
 
 ## Installation 
 npm install inquirer
 
 ## Usage
-use for making a README through node
+using node, to make a README file
+How to use the application: https://watch.screencastify.com/v/9QJZ6Ubp9LOkeu07J1N7
 
 ## Collaborators 
-coPilot and BCS learning
+coPilot and BCS Learning
 
 
 
