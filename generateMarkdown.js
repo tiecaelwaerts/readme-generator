@@ -48,7 +48,7 @@ ${data.installation}
 
 ## Usage
 ${data.usage}
-How to use the application: https://watch.screencastify.com/v/9QJZ6Ubp9LOkeu07J1N7
+How to use the application: https://drive.google.com/file/d/18c3xcop3Z7_4uv1FoLstRyb09tOc9-Rl/view
 
 ## Collaborators 
 ${data.collaborators}
