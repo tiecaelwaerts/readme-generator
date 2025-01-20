@@ -14,27 +14,26 @@
   # README Generator
 
   ## Description
-A simple way to make a consistent README
+a way to make a quick consistent README
 
 ## Installation 
 npm install inquirer
 
 ## Usage
-install and use node to create a README
+use node and make a quick README
 
 ## Collaborators 
-coPilot, learning BCS
+CoPilot, BCS Learning
 
-## License 
-    None
-![License](https://img.shields.io/badge/license-None-blue.svg)
-This application uses the None license. For more information, visit [here](https://choosealicense.com/licenses/none).
+
+
+
 
 ## Features
-Quick and simple to use
+Quick and easy to use
 
 ## Contribution
-none
+n/a
 
 ## Contact
 GitHub: [tiecaelwaerts](https://github.com/tiecaelwaerts)
